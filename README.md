@@ -1,1 +1,9 @@
-<!-- I am a student at BHASVIC. I don't have any professional goals. I'm not interested in any roles, companies or sectors. I am currently not working on anything. I don't have any relevant qualifications or certifications. I have no soft skills. -->
+I am a student at BHASVIC
+
+[ErisJava](https://github.com/BHASVIC-ErisPetersOtchere24/ErisJava)
+
+[psuedocode-challenges-code](https://github.com/BHASVIC-ErisPetersOtchere24/psuedocode-challenges-code)
+
+[homework](https://github.com/BHASVIC-CompSci/homework-BHASVIC-ErisPetersOtchere24)
+
+[animanlopoly](https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-ErisPetersOtchere24)
