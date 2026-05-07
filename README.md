@@ -9,4 +9,4 @@ I am a student at BHASVIC.
 
 [animalopoly](https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-ErisPetersOtchere24)
 
-[UTTTTT][https://github.com/BHASVIC-ErisPetersOtchere24/UTTTTT]
+[UTTTTT](https://github.com/BHASVIC-ErisPetersOtchere24/UTTTTT)
